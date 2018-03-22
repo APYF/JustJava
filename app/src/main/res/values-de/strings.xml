@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Nur Java</string>
+    <string name="header_text1">Menge</string>
+    <string name="button_text">Auftrag</string>
+    <string name="header_text2">Bestellübersicht</string>
+    <string name="whipped_cream">Schlagsahne</string>
+    <string name="toppings">Beläge</string>
+    <string name="chocolate">Schokolade</string>
+    <string name="name_inputfield">Name</string>
+    <string name="email_subject">bestellen für</string>
+    <string name="email_receiver">amypyfong+justjava@gmail.com</string>
+    <string name="quantity_low_warning">Sie können nicht weniger als 1 Kaffee haben</string>
+    <string name="quantity_high_warning">Sie können nicht mehr als 100 Kaffees haben</string>
+    <string name="price_summary">Der Preis ist</string>
+    <string name="order_summary_name">\nName: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">\nFügen Sie Schlagsahne hinzu?  <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">\nSchokolade hinzufügen? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_total">\nSumme: $  <xliff:g id="price" example="10">%d</xliff:g></string>
+    <string name="order_summary_thankyou">\nDanke!</string>
+    <string name="order_summary_quantity">\nMenge: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+</resources>
